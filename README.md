@@ -1,6 +1,14 @@
 # API PSA - ANINFO 2C 2022
 API que resuelve el módulo de Soporte de PSA.
 
+### Responsables:
+| **Apellido/s** | **Nombre/s** | **Padrón** |
+|:--------------:|:------------:|:----------:|
+| Avila Solano   | Nelson Brian |   100244   |
+| Apellido 2     | Nombre 2     |  Padron 2  |
+| Apellido 3     | Nombre 3     |  Padron 3  |
+| Apellido 4     | Nombre 4     |  Padron 4  |
+
 # ¿Qué es PSA?
 **Praxis Systems Argentina** (PSA) es una compañía de desarrollo y venta de software empresarial con base en Buenos Aires 
 y clientes en la Sudamérica de habla hispana.
